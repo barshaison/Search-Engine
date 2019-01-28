@@ -1,0 +1,25 @@
+﻿<Window x:Class="SE_WPF.View.SingleQuery"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SE_WPF.View"
+        mc:Ignorable="d"
+        Title="SingleQuery" Height="300" Width="300"
+        PreviewKeyDown="space_pressed" >
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="133" />
+            <RowDefinition Height="133" />
+        </Grid.RowDefinitions>
+        <StackPanel>
+            <TextBlock Text="Enter your query:" Height="37" />
+            <TextBox Name="singleQtext" Height="43" />
+            <ComboBox Height="43" IsEnabled="False" Name="completeOptions" GotFocus="focus" SelectionChanged="selsectec"/>
+        </StackPanel>
+       
+        <Button Grid.Row="2"
+                Click="btn_search_Click"
+            Content="Search" />
+    </Grid>
+</Window>

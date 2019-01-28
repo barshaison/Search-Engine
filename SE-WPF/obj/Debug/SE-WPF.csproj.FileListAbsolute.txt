@@ -1,0 +1,153 @@
+c:\users\daniel\documents\visual studio 2015\Projects\SE-WPF\SE-WPF\bin\Debug\SE-WPF.exe.config
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SE-WPF\SE-WPF\obj\Debug\SE-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SE-WPF\SE-WPF\obj\Debug\View\MainWindow.g.cs
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SE-WPF\SE-WPF\obj\Debug\App.g.cs
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SE-WPF\SE-WPF\obj\Debug\SE-WPF_MarkupCompile.cache
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SE-WPF\SE-WPF\obj\Debug\SE-WPF_MarkupCompile.lref
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SE-WPF\SE-WPF\obj\Debug\View\Index_Params.g.cs
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SE-WPF\SE-WPF\obj\Debug\View\ShowDictionary.g.cs
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SE-WPF\SE-WPF\bin\Debug\SE-WPF.exe
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SE-WPF\SE-WPF\bin\Debug\SE-WPF.pdb
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SE-WPF\SE-WPF\obj\Debug\View\Index_Params.baml
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SE-WPF\SE-WPF\obj\Debug\View\MainWindow.baml
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SE-WPF\SE-WPF\obj\Debug\View\ShowDictionary.baml
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SE-WPF\SE-WPF\obj\Debug\SE-WPF.g.resources
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SE-WPF\SE-WPF\obj\Debug\SE_WPF.Properties.Resources.resources
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SE-WPF\SE-WPF\obj\Debug\SE-WPF.csproj.GenerateResource.Cache
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SE-WPF\SE-WPF\obj\Debug\SE-WPF.exe
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SE-WPF\SE-WPF\obj\Debug\SE-WPF.pdb
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SE-WPF\SE-WPF\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SE-WPF\SE-WPF\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SE-WPF\SE-WPF\bin\Debug\Microsoft.WindowsAPICodePack.pdb
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SE-WPF\SE-WPF\bin\Debug\Microsoft.WindowsAPICodePack.Shell.pdb
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SE-WPF\SE-WPF\obj\Debug\View\PathToSaveDicOn.g.cs
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SE-WPF\SE-WPF\obj\Debug\View\PathToSaveDicOn.baml
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SE-WPF\SE-WPF\obj\Debug\View\Languages.g.cs
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SE-WPF\SE-WPF\obj\Debug\View\Languages.baml
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SE-WPF\SE-WPF\obj\Debug\View\DictPath.g.cs
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SE-WPF\SE-WPF\obj\Debug\View\DictPath.baml
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SE-WPF\SE-WPF\bin\Debug\MathNet.Numerics.dll
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SE-WPF\SE-WPF\bin\Debug\MathNet.Numerics.xml
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SE-WPF\SE-WPF\obj\Debug\View\SingleQuery.g.cs
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SE-WPF\SE-WPF\obj\Debug\View\SingleQuery.baml
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SE-WPF\SE-WPF\obj\Debug\View\SearchResults.g.cs
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SE-WPF\SE-WPF\obj\Debug\View\SearchResults.baml
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SE-WPF\SE-WPF\obj\Debug\View\FileQuries.g.cs
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SE-WPF\SE-WPF\obj\Debug\View\FileQuries.baml
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SE-WPF\SE-WPF\obj\Debug\View\SaveQueryResults.g.cs
+C:\Users\Daniel\Documents\Visual Studio 2015\Projects\SE-WPF\SE-WPF\obj\Debug\View\SaveQueryResults.baml
+D:\Visual Studio 2015\Projects\SE-WPF\SE-WPF\bin\Debug\SE-WPF.exe.config
+D:\Visual Studio 2015\Projects\SE-WPF\SE-WPF\obj\Debug\SE-WPF.exe
+D:\Visual Studio 2015\Projects\SE-WPF\SE-WPF\obj\Debug\SE-WPF.pdb
+D:\Visual Studio 2015\Projects\SE-WPF\SE-WPF\bin\Debug\SE-WPF.exe
+D:\Visual Studio 2015\Projects\SE-WPF\SE-WPF\bin\Debug\SE-WPF.pdb
+D:\Visual Studio 2015\Projects\SE-WPF\SE-WPF\bin\Debug\MathNet.Numerics.dll
+D:\Visual Studio 2015\Projects\SE-WPF\SE-WPF\bin\Debug\Microsoft.WindowsAPICodePack.dll
+D:\Visual Studio 2015\Projects\SE-WPF\SE-WPF\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\Visual Studio 2015\Projects\SE-WPF\SE-WPF\bin\Debug\MathNet.Numerics.xml
+D:\Visual Studio 2015\Projects\SE-WPF\SE-WPF\bin\Debug\Microsoft.WindowsAPICodePack.pdb
+D:\Visual Studio 2015\Projects\SE-WPF\SE-WPF\bin\Debug\Microsoft.WindowsAPICodePack.Shell.pdb
+D:\Visual Studio 2015\Projects\SE-WPF\SE-WPF\obj\Debug\SE-WPF.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015\Projects\SE-WPF\SE-WPF\obj\Debug\View\DictPath.g.cs
+D:\Visual Studio 2015\Projects\SE-WPF\SE-WPF\obj\Debug\View\FileQuries.g.cs
+D:\Visual Studio 2015\Projects\SE-WPF\SE-WPF\obj\Debug\View\Index_Params.g.cs
+D:\Visual Studio 2015\Projects\SE-WPF\SE-WPF\obj\Debug\View\Languages.g.cs
+D:\Visual Studio 2015\Projects\SE-WPF\SE-WPF\obj\Debug\View\MainWindow.g.cs
+D:\Visual Studio 2015\Projects\SE-WPF\SE-WPF\obj\Debug\View\PathToSaveDicOn.g.cs
+D:\Visual Studio 2015\Projects\SE-WPF\SE-WPF\obj\Debug\View\SaveQueryResults.g.cs
+D:\Visual Studio 2015\Projects\SE-WPF\SE-WPF\obj\Debug\View\SearchResults.g.cs
+D:\Visual Studio 2015\Projects\SE-WPF\SE-WPF\obj\Debug\View\ShowDictionary.g.cs
+D:\Visual Studio 2015\Projects\SE-WPF\SE-WPF\obj\Debug\View\SingleQuery.g.cs
+D:\Visual Studio 2015\Projects\SE-WPF\SE-WPF\obj\Debug\App.g.cs
+D:\Visual Studio 2015\Projects\SE-WPF\SE-WPF\obj\Debug\SE-WPF_MarkupCompile.cache
+D:\Visual Studio 2015\Projects\SE-WPF\SE-WPF\obj\Debug\SE-WPF_MarkupCompile.lref
+D:\Visual Studio 2015\Projects\SE-WPF\SE-WPF\obj\Debug\View\DictPath.baml
+D:\Visual Studio 2015\Projects\SE-WPF\SE-WPF\obj\Debug\View\FileQuries.baml
+D:\Visual Studio 2015\Projects\SE-WPF\SE-WPF\obj\Debug\View\Index_Params.baml
+D:\Visual Studio 2015\Projects\SE-WPF\SE-WPF\obj\Debug\View\Languages.baml
+D:\Visual Studio 2015\Projects\SE-WPF\SE-WPF\obj\Debug\View\MainWindow.baml
+D:\Visual Studio 2015\Projects\SE-WPF\SE-WPF\obj\Debug\View\PathToSaveDicOn.baml
+D:\Visual Studio 2015\Projects\SE-WPF\SE-WPF\obj\Debug\View\SaveQueryResults.baml
+D:\Visual Studio 2015\Projects\SE-WPF\SE-WPF\obj\Debug\View\SearchResults.baml
+D:\Visual Studio 2015\Projects\SE-WPF\SE-WPF\obj\Debug\View\ShowDictionary.baml
+D:\Visual Studio 2015\Projects\SE-WPF\SE-WPF\obj\Debug\View\SingleQuery.baml
+D:\Visual Studio 2015\Projects\SE-WPF\SE-WPF\obj\Debug\SE-WPF.g.resources
+D:\Visual Studio 2015\Projects\SE-WPF\SE-WPF\obj\Debug\SE_WPF.Properties.Resources.resources
+D:\Visual Studio 2015\Projects\SE-WPF\SE-WPF\obj\Debug\SE-WPF.csproj.GenerateResource.Cache
+D:\Projects To Show\Search Engine\SE-WPF\bin\Debug\SE-WPF.exe.config
+D:\Projects To Show\Search Engine\SE-WPF\obj\Debug\SE-WPF.exe
+D:\Projects To Show\Search Engine\SE-WPF\obj\Debug\SE-WPF.pdb
+D:\Projects To Show\Search Engine\SE-WPF\bin\Debug\SE-WPF.exe
+D:\Projects To Show\Search Engine\SE-WPF\bin\Debug\SE-WPF.pdb
+D:\Projects To Show\Search Engine\SE-WPF\bin\Debug\MathNet.Numerics.dll
+D:\Projects To Show\Search Engine\SE-WPF\bin\Debug\Microsoft.WindowsAPICodePack.dll
+D:\Projects To Show\Search Engine\SE-WPF\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\Projects To Show\Search Engine\SE-WPF\bin\Debug\MathNet.Numerics.xml
+D:\Projects To Show\Search Engine\SE-WPF\bin\Debug\Microsoft.WindowsAPICodePack.pdb
+D:\Projects To Show\Search Engine\SE-WPF\bin\Debug\Microsoft.WindowsAPICodePack.Shell.pdb
+D:\Projects To Show\Search Engine\SE-WPF\obj\Debug\SE-WPF.csprojResolveAssemblyReference.cache
+D:\Projects To Show\Search Engine\SE-WPF\obj\Debug\View\DictPath.g.cs
+D:\Projects To Show\Search Engine\SE-WPF\obj\Debug\View\FileQuries.g.cs
+D:\Projects To Show\Search Engine\SE-WPF\obj\Debug\View\Index_Params.g.cs
+D:\Projects To Show\Search Engine\SE-WPF\obj\Debug\View\Languages.g.cs
+D:\Projects To Show\Search Engine\SE-WPF\obj\Debug\View\MainWindow.g.cs
+D:\Projects To Show\Search Engine\SE-WPF\obj\Debug\View\PathToSaveDicOn.g.cs
+D:\Projects To Show\Search Engine\SE-WPF\obj\Debug\View\SaveQueryResults.g.cs
+D:\Projects To Show\Search Engine\SE-WPF\obj\Debug\View\SearchResults.g.cs
+D:\Projects To Show\Search Engine\SE-WPF\obj\Debug\View\ShowDictionary.g.cs
+D:\Projects To Show\Search Engine\SE-WPF\obj\Debug\View\SingleQuery.g.cs
+D:\Projects To Show\Search Engine\SE-WPF\obj\Debug\App.g.cs
+D:\Projects To Show\Search Engine\SE-WPF\obj\Debug\SE-WPF_MarkupCompile.cache
+D:\Projects To Show\Search Engine\SE-WPF\obj\Debug\SE-WPF_MarkupCompile.lref
+D:\Projects To Show\Search Engine\SE-WPF\obj\Debug\View\DictPath.baml
+D:\Projects To Show\Search Engine\SE-WPF\obj\Debug\View\FileQuries.baml
+D:\Projects To Show\Search Engine\SE-WPF\obj\Debug\View\Index_Params.baml
+D:\Projects To Show\Search Engine\SE-WPF\obj\Debug\View\Languages.baml
+D:\Projects To Show\Search Engine\SE-WPF\obj\Debug\View\MainWindow.baml
+D:\Projects To Show\Search Engine\SE-WPF\obj\Debug\View\PathToSaveDicOn.baml
+D:\Projects To Show\Search Engine\SE-WPF\obj\Debug\View\SaveQueryResults.baml
+D:\Projects To Show\Search Engine\SE-WPF\obj\Debug\View\SearchResults.baml
+D:\Projects To Show\Search Engine\SE-WPF\obj\Debug\View\ShowDictionary.baml
+D:\Projects To Show\Search Engine\SE-WPF\obj\Debug\View\SingleQuery.baml
+D:\Projects To Show\Search Engine\SE-WPF\obj\Debug\SE-WPF.g.resources
+D:\Projects To Show\Search Engine\SE-WPF\obj\Debug\SE_WPF.Properties.Resources.resources
+D:\Projects To Show\Search Engine\SE-WPF\obj\Debug\SE-WPF.csproj.GenerateResource.cache
+D:\Projects To Show\Search Engine\SE-WPF\obj\Debug\SE-WPF.csproj.CoreCompileInputs.cache
+D:\Projects To Show\Search Engine\SE-WPF\obj\Debug\SE-WPF.csproj.CopyComplete
+C:\Users\Daniel Barshai\Projects\Search Engine\SE-WPF\bin\Debug\SE-WPF.exe.config
+C:\Users\Daniel Barshai\Projects\Search Engine\SE-WPF\bin\Debug\SE-WPF.exe
+C:\Users\Daniel Barshai\Projects\Search Engine\SE-WPF\bin\Debug\SE-WPF.pdb
+C:\Users\Daniel Barshai\Projects\Search Engine\SE-WPF\bin\Debug\MathNet.Numerics.xml
+C:\Users\Daniel Barshai\Projects\Search Engine\SE-WPF\bin\Debug\Microsoft.WindowsAPICodePack.pdb
+C:\Users\Daniel Barshai\Projects\Search Engine\SE-WPF\bin\Debug\Microsoft.WindowsAPICodePack.Shell.pdb
+C:\Users\Daniel Barshai\Projects\Search Engine\SE-WPF\obj\Debug\SE-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Daniel Barshai\Projects\Search Engine\SE-WPF\obj\Debug\View\DictPath.g.cs
+C:\Users\Daniel Barshai\Projects\Search Engine\SE-WPF\obj\Debug\View\FileQuries.g.cs
+C:\Users\Daniel Barshai\Projects\Search Engine\SE-WPF\obj\Debug\View\Index_Params.g.cs
+C:\Users\Daniel Barshai\Projects\Search Engine\SE-WPF\obj\Debug\View\Languages.g.cs
+C:\Users\Daniel Barshai\Projects\Search Engine\SE-WPF\obj\Debug\View\MainWindow.g.cs
+C:\Users\Daniel Barshai\Projects\Search Engine\SE-WPF\obj\Debug\View\PathToSaveDicOn.g.cs
+C:\Users\Daniel Barshai\Projects\Search Engine\SE-WPF\obj\Debug\View\SaveQueryResults.g.cs
+C:\Users\Daniel Barshai\Projects\Search Engine\SE-WPF\obj\Debug\View\SearchResults.g.cs
+C:\Users\Daniel Barshai\Projects\Search Engine\SE-WPF\obj\Debug\View\ShowDictionary.g.cs
+C:\Users\Daniel Barshai\Projects\Search Engine\SE-WPF\obj\Debug\View\SingleQuery.g.cs
+C:\Users\Daniel Barshai\Projects\Search Engine\SE-WPF\obj\Debug\App.g.cs
+C:\Users\Daniel Barshai\Projects\Search Engine\SE-WPF\obj\Debug\SE-WPF_MarkupCompile.cache
+C:\Users\Daniel Barshai\Projects\Search Engine\SE-WPF\obj\Debug\SE-WPF_MarkupCompile.lref
+C:\Users\Daniel Barshai\Projects\Search Engine\SE-WPF\obj\Debug\View\DictPath.baml
+C:\Users\Daniel Barshai\Projects\Search Engine\SE-WPF\obj\Debug\View\FileQuries.baml
+C:\Users\Daniel Barshai\Projects\Search Engine\SE-WPF\obj\Debug\View\Index_Params.baml
+C:\Users\Daniel Barshai\Projects\Search Engine\SE-WPF\obj\Debug\View\Languages.baml
+C:\Users\Daniel Barshai\Projects\Search Engine\SE-WPF\obj\Debug\View\MainWindow.baml
+C:\Users\Daniel Barshai\Projects\Search Engine\SE-WPF\obj\Debug\View\PathToSaveDicOn.baml
+C:\Users\Daniel Barshai\Projects\Search Engine\SE-WPF\obj\Debug\View\SaveQueryResults.baml
+C:\Users\Daniel Barshai\Projects\Search Engine\SE-WPF\obj\Debug\View\SearchResults.baml
+C:\Users\Daniel Barshai\Projects\Search Engine\SE-WPF\obj\Debug\View\ShowDictionary.baml
+C:\Users\Daniel Barshai\Projects\Search Engine\SE-WPF\obj\Debug\View\SingleQuery.baml
+C:\Users\Daniel Barshai\Projects\Search Engine\SE-WPF\obj\Debug\SE-WPF.g.resources
+C:\Users\Daniel Barshai\Projects\Search Engine\SE-WPF\obj\Debug\SE_WPF.Properties.Resources.resources
+C:\Users\Daniel Barshai\Projects\Search Engine\SE-WPF\obj\Debug\SE-WPF.csproj.GenerateResource.cache
+C:\Users\Daniel Barshai\Projects\Search Engine\SE-WPF\obj\Debug\SE-WPF.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Barshai\Projects\Search Engine\SE-WPF\obj\Debug\SE-WPF.csproj.CopyComplete
+C:\Users\Daniel Barshai\Projects\Search Engine\SE-WPF\obj\Debug\SE-WPF.exe
+C:\Users\Daniel Barshai\Projects\Search Engine\SE-WPF\obj\Debug\SE-WPF.pdb

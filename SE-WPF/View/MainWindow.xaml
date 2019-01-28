@@ -1,0 +1,82 @@
+﻿<Window x:Class="SE_WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SE_WPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="435" Width="525">
+    <Grid ShowGridLines="False">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="17" />
+            <RowDefinition Height="69" />
+            <RowDefinition Height="Auto" MinHeight="67" />
+            <RowDefinition Height="66*" />
+            <RowDefinition Height="65*" />
+            <RowDefinition Height="63*" />
+            <RowDefinition Height="58*" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="261*" />
+            <ColumnDefinition Width="256*" />
+
+        </Grid.ColumnDefinitions>
+        <Button Grid.Row="5"
+            Grid.Column="1"
+                Click="btn_fileQ_Click"
+            Content="Enter Query File" />
+        <Button Grid.Row="5"
+            Grid.Column="0"
+                Click="btn_singleQ_Click"
+            Content="Enter Single Query" />
+        <Button Grid.Row="4"
+            Grid.Column="0"
+                Click="btn_saveQ_Click"
+            Content="Save My Last Query Results" />
+        <Button Grid.Row="2"
+            Grid.Column="0"
+                Click="btn_start_Click"
+            Content="Start" />
+        <Button Grid.Row="3"
+            Grid.Column="0"
+                Click="btn_display_click"
+            Content="Display Dictionary" />
+        <Button Grid.Row="6"
+            Grid.Column="0"
+                 Grid.ColumnSpan="2"
+                Click="btn_Reset_click"
+            Content="Reset" />
+        <Button Grid.Row="2"
+            Grid.Column="1"
+                Click="btn_Save_Dic_click"
+            Content="Save Dictionary On Disk" />
+        <Button Grid.Row="3"
+            Grid.Column="1"
+                Click="btn_LoadDic"
+            Content="Load Dictionary And Relevant Files" />
+        <Button Grid.Row="4"
+            Grid.Column="1"
+            Content="Choose Language"
+                Click="btn_language_click"/>
+
+        <Rectangle Grid.Row="1"
+            Grid.Column="0"
+                Grid.ColumnSpan="2"
+                Name="cnvs" Margin="67,10,85,0"/>
+
+        <Menu Name="menu_name" Focusable="False" Grid.Row="0"
+            Grid.Column="0"
+                Grid.ColumnSpan="2" Margin="0,0,0,64" Grid.RowSpan="2">
+            <MenuItem Focusable="True" Header="Help">
+                <MenuItem Header="Controls" Click="controls_click" />
+                <MenuItem Header="Instractions" Click="instractions_click" />
+            </MenuItem>
+            <MenuItem Focusable="True" Header="About" Click="btn_about_click">
+            </MenuItem>
+        </Menu>
+
+
+
+
+    </Grid>
+</Window>
